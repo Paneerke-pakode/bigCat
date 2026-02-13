@@ -3,9 +3,7 @@
 #include <string.h>
 #include <unistd.h>
 //THIS IS A WORKING MODEL OF THE `cat` COMMAND FROM UNIX.
-//A WORKING COPY OF THIS MUST BE PRESENT IN THE UBUNTU FILES
-//IN THE COMPUTER, WHICH WILL HENCE RESULT IN THE CODE WORKING INSIDE UBUNTU UNIX.
-//myCat.c is a wokring version of this in the ubuntu codes inside the ubuntu folders.
+
 int main(int argc, char **argv){
 
 	int bflag = 0, eflag = 0, nflag = 0, sflag = 0;
