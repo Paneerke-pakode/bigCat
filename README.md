@@ -21,11 +21,11 @@ Location : `enhanced/`
 
 ##### Basic version
 
-`gcc myCat/myCat.c -o myCat`
+`gcc base/myCat.c -o myCat`
 
 ##### Enhanced version
 
-`gcc bigCat/bigCat.c -o bigCat`
+`gcc enhanced/bigCat.c -o bigCat`
 
 
 ##### ----- EXAMPLE USAGE -----
