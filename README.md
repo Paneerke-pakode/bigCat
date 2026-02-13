@@ -1,4 +1,4 @@
-# bigCat
+# Cat Reimplementation
 
 This Repository contains my exploration of the UNIX 'cat' command, implemented in C language.
 
